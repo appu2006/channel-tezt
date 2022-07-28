@@ -7,6 +7,9 @@
 Telegram bot to automate and manage channels.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+#### railway 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/snfk7o)
+
 
 ## Usage
 
